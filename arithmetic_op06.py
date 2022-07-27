@@ -7,3 +7,8 @@
 #Print the answer.
  
 #Print the number.
+number=15
+number=number/2
+answer=number/2-round(number/2)
+print(answer)
+print(number)
