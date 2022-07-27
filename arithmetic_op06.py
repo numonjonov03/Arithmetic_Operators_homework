@@ -9,6 +9,7 @@
 #Print the number.
 number=13
 number=number/2
-answer=number/2-round(number/2)
+
+answer=abs(number/2-round(number/2))
 print(answer)
 print(number)
