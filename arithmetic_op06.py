@@ -10,6 +10,6 @@
 number=13
 number=number/2
 
-answer=abs(number/2-round(number/2))
+answer=abs(round(number) - number)
 print(answer)
 print(number)
